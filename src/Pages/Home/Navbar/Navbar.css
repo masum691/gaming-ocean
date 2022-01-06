@@ -15,7 +15,7 @@ ul li{
     cursor: pointer;
 }
 ul li:hover{
-    border-bottom: 2px solid #DC7000;
+    border-bottom: 2px solid #dc7200;
 }
 ul button{
     background-color: #FA9021;

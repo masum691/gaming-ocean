@@ -1,0 +1,13 @@
+.banner-container{
+    background-color: #050201;
+    color: white;
+}
+.banner-container button{
+    border: 0;
+    background: linear-gradient(92.48deg, #FA8305 2.08%, #FB9E3C 117.25%);
+    border-radius: 40px;
+    color: white;
+    padding: 8px 22px;
+    font-weight: 600;
+    cursor: pointer;
+}
