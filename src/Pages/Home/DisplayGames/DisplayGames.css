@@ -1,0 +1,23 @@
+.display-game{
+    background-color: #0a0402;
+    color: white;
+    padding: 44px 0;
+}
+.see-more button{
+    background: rgba(255, 255, 255, 0.11);
+    border: 0;
+    color: white;
+    font-weight: 600;
+    padding: 8px 22px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.display-card{
+    background-color: rgba(255, 0, 0, 0);
+    cursor: pointer;
+}
+.display-card:hover h6{
+    color: #FA9021;
+}
