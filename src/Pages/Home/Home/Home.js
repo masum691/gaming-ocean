@@ -3,6 +3,7 @@ import Banner from '../Banner/Banner';
 import Category from '../Category/Category';
 import DisplayGames from '../DisplayGames/DisplayGames';
 import Navbar from '../Navbar/Navbar';
+import Projects from '../Projects/Projects';
 
 const Home = () => {
     return (
@@ -11,6 +12,7 @@ const Home = () => {
             <Banner></Banner>
             <DisplayGames></DisplayGames>
             <Category></Category>
+            <Projects></Projects>
         </div>
     );
 };

@@ -1,0 +1,25 @@
+.project-container{
+    background-color: #140905;
+    color: white;
+    padding: 43px 0;
+}
+.form-container{
+    background-color: #1f110c;
+    padding: 18px 33px;
+    margin-top: 53px;
+    border-radius: 6px;
+}
+.form-container input{
+    padding: 7px 32px;
+    border-radius: 6px;
+    border: 0;
+}
+.form-container button{
+    position: relative;
+    left: -93px;
+    border: 0;
+    background-color: #FA9021;
+    color: white;
+    padding: 4px 12px;
+    border-radius: 4px;
+}
