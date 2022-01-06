@@ -7,8 +7,8 @@ const Category = () => {
         <div className='category-container' style={{ backgroundImage: `url(${bg})` }}>
             <div className='game-category'>
                 <div className='container mx-auto'>
-                    <h2 className='text-center w-75 mx-auto'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio quam nihil ex dolorem rem?</h2>
-                    <p className='text-center w-75 mx-auto mt-4'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti obcaecati quis voluptate magnam soluta porro voluptatem excepturi labore corporis delectus eius velit quas exercitationem, corrupti temporibus.</p>
+                    <h2 className='text-center w-75 mx-auto'>Videogames were an explosion of colour in an otherwise grey year</h2>
+                    <p className='text-center w-75 mx-auto mt-4'>Games have gotten really bloody good at rendering the real world. But I'm so much more excited to see how graphical advances can be turned to create the impossible.</p>
                 </div>
                 <div className='mt-5 game-category-items'>
                     <div class="container mx-auto row row-cols-1 row-cols-md-4 g-4 text-center">

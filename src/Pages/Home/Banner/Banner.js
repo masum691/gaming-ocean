@@ -9,7 +9,7 @@ const Banner = () => {
                 <div className='col-sm-12 col-lg-6'>
                     <h6>3D GAME DEV</h6>
                     <h1>Work that we produce for our clients</h1>
-                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. A ipsam, quas, sunt aut ullam, voluptas nostrum ea provident ipsa quod fugiat. Natus mollitia quisquam.</p>
+                    <p>I have a love-hate relationship with survival games. I'll get deep into them for a good long while before abruptly realizing I am sick of chopping down trees. And then I'll go cold on the genre for a while.</p>
                     <button>Get more details</button>
                 </div>
                 <div className='col-sm-12 col-lg-6'>

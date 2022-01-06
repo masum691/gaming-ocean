@@ -46,11 +46,11 @@ const DisplayGames = () => {
                 </div>
             </div>
             <div>
-                <h2 className='text-center container mx-auto w-50 mt-5'>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</h2>
+                <h2 className='text-center container mx-auto w-50 mt-5'>2022 delivered some big twists to the familiar survival game formula</h2>
             </div>
             <div className='container mx-auto mt-5'>
-                <h4>lorem ipsum</h4>
-                <p className='w-50'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis molestias dicta veniam deserunt minima, ratione velit nam quam doloribus libero. Sequi, soluta.</p>
+                <h4>Survival game</h4>
+                <p className='w-50'>It was a great year for survival thanks to a number of games that changed up some familiar systems.</p>
                 <div>
                     
                 </div>

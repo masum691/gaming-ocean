@@ -3,3 +3,7 @@
     color: white;
     padding: 33px 0;
 }
+.footer-icon i:hover{
+    cursor: pointer;
+    color: #FA9021;
+}
