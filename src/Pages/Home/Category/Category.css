@@ -1,0 +1,12 @@
+.game-category{
+    padding: 55px 0;
+    color: #ffffff;
+}
+.game-category-items .this-arrow{
+    color: #FA9021;
+    transition: .3s;
+}
+.game-category .this-arrow:hover{
+    border-left: 12px solid rgba(255, 0, 0, 0);
+    cursor: pointer;
+}
