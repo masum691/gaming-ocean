@@ -1,9 +1,26 @@
 import React from 'react';
+import './Navbar.css'
 
 const Navbar = () => {
     return (
-        <div>
-            <h1>this is nav</h1>
+        <div className='nav-container'>
+            <div className='row container mx-auto align-items-center'>
+                <div className='col-sm-12 col-lg-6 gaming-logo'>
+                    <h4><span className='gam'>Gam</span>ing ocean</h4>
+                </div>
+                <div className='col-sm-12 col-lg-6'>
+                    <nav>
+                        <ul className='d-flex align-items-center'>
+                            <li>Home</li>
+                            <li>About us</li>
+                            <li>Portfolio</li>
+                            <li>News</li>
+                            <li>Contact us</li>
+                            <button>Login</button>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
         </div>
     );
 };

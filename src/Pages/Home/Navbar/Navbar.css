@@ -1,0 +1,34 @@
+.nav-container{
+    background-color: #050201;
+    color: white;
+    padding: 12px 0 4px 0;
+}
+.gaming-logo h4:hover{
+    cursor: pointer;
+}
+.gam{
+    color: #FA9021;
+}
+ul li{
+    list-style: none;
+    margin-right: 22px;
+    cursor: pointer;
+}
+ul li:hover{
+    border-bottom: 2px solid #DC7000;
+}
+ul button{
+    background-color: #FA9021;
+    border: 0;
+    color: white;
+    padding: 4px 22px;
+    border-radius: 4px;
+    font-weight: 600;
+}
+ul button:hover{
+    background-color: #DC7000;
+}
+ul li:nth-child(1){
+    color: #FA9021;
+    font-weight: 600;
+}
