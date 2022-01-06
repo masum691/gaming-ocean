@@ -12,10 +12,10 @@ const Navbar = () => {
                     <nav>
                         <ul className='d-flex align-items-center'>
                             <li>Home</li>
-                            <li>About us</li>
-                            <li>Portfolio</li>
-                            <li>News</li>
-                            <li>Contact us</li>
+                            <li className='nav-page'>About us</li>
+                            <li className='nav-page'>Portfolio</li>
+                            <li className='nav-page'>News</li>
+                            <li className='nav-page'>Contact us</li>
                             <button>Login</button>
                         </ul>
                     </nav>

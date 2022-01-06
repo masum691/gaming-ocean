@@ -32,3 +32,8 @@ ul li:nth-child(1){
     color: #FA9021;
     font-weight: 600;
 }
+@media only screen and (max-width: 400px) {
+    .nav-page{
+        display: none;
+    }
+  }

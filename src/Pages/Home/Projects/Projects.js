@@ -17,22 +17,22 @@ const Projects = () => {
             <div>
                 <div class="container mx-auto row row-cols-1 row-cols-md-3">
                     <div class="col">
-                        <img src={one} alt="" />
+                        <img className='img-fluid' src={one} alt="" />
                     </div>
                     <div class="col">
-                        <img src={two} alt="" />
+                        <img className='img-fluid' src={two} alt="" />
                     </div>
                     <div class="col">
-                        <img src={three} alt="" />
+                        <img className='img-fluid' src={three} alt="" />
                     </div>
                     <div class="col">
-                        <img src={four} alt="" />
+                        <img className='img-fluid' src={four} alt="" />
                     </div>
                     <div class="col">
-                        <img src={five} alt="" />
+                        <img className='img-fluid' src={five} alt="" />
                     </div>
                     <div class="col">
-                        <img src={six} alt="" />
+                        <img className='img-fluid' src={six} alt="" />
                     </div>
                 </div>
                 <div className='see-more text-center mt-4'>
